@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Radil-Mahbub
-- 👀 I’m interested in Robotics and Unity gamedev
+- 👀 I’m interested in Robotics, Unity gamedev & blender
 - 🌱 I’m currently learning arduino and Unity
 - 📫 How to reach me sonifasharmin@gmail.com
 
